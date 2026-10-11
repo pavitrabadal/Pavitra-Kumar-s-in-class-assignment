@@ -1,0 +1,8 @@
+{
+  "name": "Pavitra Kumar\u0027s In Class Assignment",
+  "description": "Interactive Diode Bridge and Thyristor Controlled Rectifier Studio with real-time schematic and precision multi-channel waveforms. Roll No: 24EE10074.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
